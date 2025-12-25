@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Run my composite action
-        uses: ./.github/actions/my-composite.yml
+        uses: ./.github/actions/my-composite
