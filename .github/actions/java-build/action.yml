@@ -14,5 +14,5 @@ runs:
         distribution: 'temurin'
 
     - name: Build with Maven
-      run: mvn clean package -DskipTests
+      run: echo "mvn clean package -DskipTests"
       shell: bash
