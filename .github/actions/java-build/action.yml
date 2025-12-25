@@ -14,5 +14,5 @@ runs:
         distribution: 'temurin'
 
     - name: Build with Maven
-      run: echo "mvn clean package -DskipTests"
+      run: echo "I am srimathi"
       shell: bash
